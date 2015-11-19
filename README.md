@@ -7,6 +7,14 @@
 * Chrome：您可以将它导入到 Chrome 的 [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef) 插件中，用以屏蔽 Google 搜索结果中的垃圾网站。
 * Firefox：*我并不是一个 FF 用户，希望您能帮助我找到这类插件*
 
+## 对垃圾网站的定义
+
+* 堆砌关键词换取 SEO，本身并无任何价值
+* 虚假搜索引擎，例如 [问叔叔搜索](http://wenshushu.com/?q=abc)、[森林搜索](http://senlinso.com/k/abc)、[谷粉搜搜（假）](http://gfsoso.99lb.net/)
+* 恶意爬虫内容聚合站，例如 [人人 IT](http://fanli7.net/index.html)
+
+*P.S. 并不完整，欢迎补充*
+
 ## 贡献
 
 我们欢迎任何人向我们贡献垃圾网站的域名列表。具体贡献方法请参照开源社区的一般性协作方式。
