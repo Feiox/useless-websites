@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+with open('./domains.csv', 'r') as f:
+    urls = {url for url in f.read().split('\n') if url}
+
+with open('./domains.csv', 'w') as f:
+    f.write('\n'.join(sorted(list(urls))))
+    f.write('\n')
