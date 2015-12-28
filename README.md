@@ -4,8 +4,21 @@
 
 ## 使用
 您可以这样利用它：
-* Chrome：您可以将它导入到 Chrome 的 [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef) 插件中，用以屏蔽 Google 搜索结果中的垃圾网站。
-* Firefox：*我并不是一个 FF 用户，希望您能帮助我找到这类插件*
+
+* Chrome 
+  * [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef)    
+    您可以将它导入到 Personal Blocklist 插件中，用以屏蔽 Google 搜索结果中的垃圾网站。  
+
+* Firefox
+  * [Hide Unwanted Results of Google Search](https://addons.mozilla.org/en-US/firefox/addon/hide-unwanted-results-of-go/)  
+    Hide(block) site specific unwanted results of Google Search Also support Bing Search  
+
+另外：
+* [uBlock Origin](https://github.com/gorhill/uBlock)  
+  An efficient blocker for Chromium and Firefox. Fast and lean.  
+
+P.S.
+*我并不是一个 FF 用户，希望您能帮助我找到更多更好用的这类插件*
 
 ## 对垃圾网站的定义
 
