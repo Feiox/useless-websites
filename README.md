@@ -1,15 +1,17 @@
 # 互联网垃圾网站列表
 
+【注意】该项目正在进行重构，希望您能关注哦
+
 这里是收集到的互联网上的垃圾网站列表。
 
 ## 使用
 您可以这样利用它：
 
-* Chrome 
+* Chrome 已失效
   * [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef)    
     您可以将它导入到 Personal Blocklist 插件中，用以屏蔽 Google 搜索结果中的垃圾网站。  
 
-* Firefox
+* Firefox 已失效
   * [Hide Unwanted Results of Google Search](https://addons.mozilla.org/en-US/firefox/addon/hide-unwanted-results-of-go/)  
     Hide(block) site specific unwanted results of Google Search Also support Bing Search  
 
